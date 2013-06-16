@@ -1,0 +1,230 @@
+Player score delta 
+
+Seed := 18
+Player 1 moved first
+Player 1 Score: 197
+Player 2 Score: 189
+Score Delta: 8
+
+Seed := 18
+Player 2 moved first
+Player 1 Score: 191
+Player 2 Score: 195
+Score Delta: -4
+
+Seed := 18
+Player 1 moved first
+Player 1 Score: 185
+Player 2 Score: 201
+Score Delta: -16
+
+Seed := 18
+Player 2 moved first
+Player 1 Score: 192
+Player 2 Score: 194
+Score Delta: -2
+
+Seed := 18
+Player 1 moved first
+Player 1 Score: 201
+Player 2 Score: 185
+Score Delta: 16
+
+Seed := 18
+Player 2 moved first
+Player 1 Score: 191
+Player 2 Score: 195
+Score Delta: -4
+
+Seed := 18
+Player 1 moved first
+Player 1 Score: 201
+Player 2 Score: 185
+Score Delta: 16
+
+Seed := 18
+Player 2 moved first
+Player 1 Score: 193
+Player 2 Score: 193
+Score Delta: 0
+
+Player 1 moving first = 24
+Player 2 moving first = -10
+Total = 14
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Negative weights on blank spots
+
+
+Seed := 18
+Player 1 moved first
+Player 1 Score: 197
+Player 2 Score: 189
+Score Delta: 8
+
+Seed := 18
+Player 2 moved first
+Player 1 Score: 183
+Player 2 Score: 203
+Score Delta: -20
+
+Seed := 18
+Player 1 moved first
+Player 1 Score: 187
+Player 2 Score: 199
+Score Delta: -12
+
+Seed := 18
+Player 2 moved first
+Player 1 Score: 193
+Player 2 Score: 193
+Score Delta: 0
+
+Seed := 18
+Player 1 moved first
+Player 1 Score: 192
+Player 2 Score: 194
+Score Delta: -2
+
+Seed := 18
+Player 2 moved first
+Player 1 Score: 188
+Player 2 Score: 198
+Score Delta: -10
+
+Seed := 18
+Player 1 moved first
+Player 1 Score: 192
+Player 2 Score: 194
+Score Delta: -2
+
+Seed := 18
+Player 2 moved first
+Player 1 Score: 183
+Player 2 Score: 203
+Score Delta: -20
+
+Seed := 18
+Player 1 moved first
+Player 1 Score: 195
+Player 2 Score: 191
+Score Delta: 4
+
+Seed := 18
+Player 2 moved first
+Player 1 Score: 194
+Player 2 Score: 192
+Score Delta: 2
+
+Player 1 first = -4
+Player 2 first = -48
+Total = -52
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Negative weights on blank spots in first 50 moves
+
+
+Seed := 18
+Player 1 moved first
+Player 1 Score: 192
+Player 2 Score: 194
+Score Delta: -2
+
+Seed := 18
+Player 2 moved first
+Player 1 Score: 178
+Player 2 Score: 208
+Score Delta: -30
+
+Seed := 18
+Player 1 moved first
+Player 1 Score: 191
+Player 2 Score: 195
+Score Delta: -4
+
+Seed := 18
+Player 2 moved first
+Player 1 Score: 184
+Player 2 Score: 202
+Score Delta: -18
+
+Seed := 18
+Player 1 moved first
+Player 1 Score: 201
+Player 2 Score: 185
+Score Delta: 16
+
+Seed := 18
+Player 2 moved first
+Player 1 Score: 187
+Player 2 Score: 199
+Score Delta: -12
+
+Seed := 18
+Player 1 moved first
+Player 1 Score: 202
+Player 2 Score: 184
+Score Delta: 18
+
+Seed := 18
+Player 2 moved first
+Player 1 Score: 189
+Player 2 Score: 197
+Score Delta: -8
+
+Seed := 18
+Player 1 moved first
+Player 1 Score: 204
+Player 2 Score: 182
+Score Delta: 22
+
+Seed := 18
+Player 2 moved first
+Player 1 Score: 193
+Player 2 Score: 193
+Score Delta: 0
+
+Player 1 first = 50
+Player 2 first = -68
+Total = -18

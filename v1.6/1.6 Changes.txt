@@ -1,0 +1,1 @@
+Fixed concurrency issues and threads not ending within the AI

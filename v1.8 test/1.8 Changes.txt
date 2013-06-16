@@ -1,0 +1,10 @@
+Added icons to the game and implemented them into BoardPanel.java.
+Added new folder "res"
+Added the following icons into the res folder:
+	PieceGreen.png		//Normal green piece
+	PieceRed.png		//Normal red piece
+	PieceSGreen.png		//Green piece when selected
+	PieceSRed.png		//Red piece when selected
+	Tile.png		//Normal game tile
+	TileSGreen.png		//Tile which a green piece can be moved to
+	TileSRed.png		//Tile which a red piece can be moved to
